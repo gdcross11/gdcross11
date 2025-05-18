@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 
+
+I'm Gabrielle Cross. 
 
 As a data analyst with a growing portfolio in data science, I specialize in transforming health and policy data into insights that drive real-world impact. 
 
